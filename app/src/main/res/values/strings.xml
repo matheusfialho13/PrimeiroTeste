@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro Teste</string>
+    <string name="teste">Resultado:</string>
+    <string name="action_settings">Settings</string>
+</resources>
